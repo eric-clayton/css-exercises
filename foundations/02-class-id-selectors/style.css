@@ -1,0 +1,15 @@
+.odd-element {
+    background-color: rgb(216, 140, 140);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#blue-large {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+.medium-size, #green-bold{
+    font-size: 24px;
+}
+#green-bold {
+    background-color: #90ee90;
+    font-weight: bold;
+}
