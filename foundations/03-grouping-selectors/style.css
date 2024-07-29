@@ -1,0 +1,11 @@
+.dark-theme {
+    background-color: black;
+    color: white;
+}
+.caution-theme {
+    background-color: yellow;
+}
+.caution-theme, .dark-theme {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
